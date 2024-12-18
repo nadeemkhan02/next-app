@@ -30,7 +30,7 @@ This is a authentication app built with Next.js, demonstrating core concepts lik
 - [Next.js](https://nextjs.org/)  
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for database storage  
 - [Mongoose](https://mongoosejs.com/) for MongoDB object modeling  
-- [JWT](https://jwt.io/) for token-based authentication  
+- [JWT](https://jwt.io/) for token-based authentication 
 - [React Hook Form](https://react-hook-form.com/) for form handling  
 - [Tailwind CSS](https://tailwindcss.com/) for styling (optional)  
 
@@ -40,3 +40,9 @@ This is a authentication app built with Next.js, demonstrating core concepts lik
    ```bash
    git clone <repository-url>
    cd <project-directory>
+
+login page:
+<img width="1459" alt="Screenshot 2024-12-18 at 12 55 40 PM" src="https://github.com/user-attachments/assets/beb92d19-6b96-4474-a1b9-c8dfbba5c6a1" />
+Sign up page:
+<img width="1470" alt="Screenshot 2024-12-18 at 12 55 25 PM" src="https://github.com/user-attachments/assets/595d5576-f334-4443-959d-2c620fb05ae3" />
+
